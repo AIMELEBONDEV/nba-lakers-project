@@ -58,4 +58,5 @@ Cette analyse met en évidence une légère baisse de la performance des Lakers 
 
 Ce rapport peut être utilisé par une franchise ou même par les Lakers pour suivre et évaluer les performances de leur équipe.
 
+## La prochaine étape
 La prochaine étape consistera à améliorer l’architecture en intégrant SQL Server comme entrepôt de données pour centraliser et gérer les informations. Si le projet évolue, l’intégration d’un CI/CD permettra de passer à une architecture professionnelle complète, et il sera envisageable de développer une application Django pour consommer et visualiser les données, facilitant ainsi le travail des équipes ou des journalistes.
